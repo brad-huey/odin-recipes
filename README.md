@@ -3,6 +3,7 @@ In this project I created a webpage with a list of dishes that link to other wed
 ### -Lasagna
 ### -Pizza Cupcakes
 ### -Pop-Tarts
+### -Boxed Potatoes and Dill Pickles
 
 I was able to add photos to each recipe page. Create ordered and unordered lists, and I am currently learning how commit comments work.
 
